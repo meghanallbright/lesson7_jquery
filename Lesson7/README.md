@@ -13,13 +13,13 @@ Meghan Allbright
 This project was to create a application to display a recipe. 
 
 ### View Project:
-https://meghanallbright.github.io/lesson7_jquery/
+https://meghanallbright.github.io/lesson7_jquery/Lesson7/
 
 ### Lessons Learned in the Assignment:
 1. jQuery is used to allow developers to implement common JavaScript
 tasks with less code.
 
-2. jQuery uses JavaScript rules.
+2. jQuery uses JavaScript rules and syntax.
 
 3. For j Query to work you must link .js file to the HTML
 document.
