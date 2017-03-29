@@ -4,19 +4,22 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 31, 2017
 
 ### Student Name:  
-(First and Last Name)
+Meghan Allbright
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was to create a application to display a recipe. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://meghanallbright.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is used to allow developers to implement common JavaScript
+tasks with less code.
+
+2. jQuery uses JavaScript rules.
+
+3. For j Query to work you must link .js file to the HTML
+document.
