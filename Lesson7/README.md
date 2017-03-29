@@ -13,7 +13,7 @@ Meghan Allbright
 This project was to create a application to display a recipe. 
 
 ### View Project:
-https://meghanallbright.github.io/lesson7_jquery/Lesson7/
+https://meghanallbright.github.io/lesson7_jquery/Lesson7
 
 ### Lessons Learned in the Assignment:
 1. jQuery is used to allow developers to implement common JavaScript
